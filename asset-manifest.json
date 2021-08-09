@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Biztech-Template/static/css/main.190e66ac.chunk.css",
-    "main.js": "/Biztech-Template/static/js/main.8c904f4f.chunk.js",
-    "main.js.map": "/Biztech-Template/static/js/main.8c904f4f.chunk.js.map",
+    "main.js": "/Biztech-Template/static/js/main.93d83d75.chunk.js",
+    "main.js.map": "/Biztech-Template/static/js/main.93d83d75.chunk.js.map",
     "runtime-main.js": "/Biztech-Template/static/js/runtime-main.4965aab9.js",
     "runtime-main.js.map": "/Biztech-Template/static/js/runtime-main.4965aab9.js.map",
     "static/css/2.89494293.chunk.css": "/Biztech-Template/static/css/2.89494293.chunk.css",
-    "static/js/2.a6bfbd50.chunk.js": "/Biztech-Template/static/js/2.a6bfbd50.chunk.js",
-    "static/js/2.a6bfbd50.chunk.js.map": "/Biztech-Template/static/js/2.a6bfbd50.chunk.js.map",
+    "static/js/2.06466b8b.chunk.js": "/Biztech-Template/static/js/2.06466b8b.chunk.js",
+    "static/js/2.06466b8b.chunk.js.map": "/Biztech-Template/static/js/2.06466b8b.chunk.js.map",
     "index.html": "/Biztech-Template/index.html",
-    "precache-manifest.9c50311421f87afaae2818e6927f6fc6.js": "/Biztech-Template/precache-manifest.9c50311421f87afaae2818e6927f6fc6.js",
+    "precache-manifest.096dc83c34d68f4688d480b831aaede9.js": "/Biztech-Template/precache-manifest.096dc83c34d68f4688d480b831aaede9.js",
     "service-worker.js": "/Biztech-Template/service-worker.js",
     "static/css/2.89494293.chunk.css.map": "/Biztech-Template/static/css/2.89494293.chunk.css.map",
     "static/css/main.190e66ac.chunk.css.map": "/Biztech-Template/static/css/main.190e66ac.chunk.css.map",
-    "static/js/2.a6bfbd50.chunk.js.LICENSE.txt": "/Biztech-Template/static/js/2.a6bfbd50.chunk.js.LICENSE.txt",
+    "static/js/2.06466b8b.chunk.js.LICENSE.txt": "/Biztech-Template/static/js/2.06466b8b.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/Biztech-Template/static/media/1.5ece5cba.jpg",
     "static/media/2.jpg": "/Biztech-Template/static/media/2.21cf04be.jpg",
     "static/media/3.jpg": "/Biztech-Template/static/media/3.da070e26.jpg",
@@ -40,8 +40,8 @@
   "entrypoints": [
     "static/js/runtime-main.4965aab9.js",
     "static/css/2.89494293.chunk.css",
-    "static/js/2.a6bfbd50.chunk.js",
+    "static/js/2.06466b8b.chunk.js",
     "static/css/main.190e66ac.chunk.css",
-    "static/js/main.8c904f4f.chunk.js"
+    "static/js/main.93d83d75.chunk.js"
   ]
 }
